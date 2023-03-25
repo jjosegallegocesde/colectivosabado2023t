@@ -1,4 +1,4 @@
 # colectivosabado2023t
-fork 
-clonar 
-crear rama 
+1)fork =>
+2)clonar =>
+3)crear rama 
